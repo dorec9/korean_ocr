@@ -1,0 +1,13 @@
+# IDE / cache
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# logs
+*.log
+log_demo_result.txt
+
+# big binaries / external tools (권장: 필요 시만 올리기)
+weight/
+poppler-0.68.0/
